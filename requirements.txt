@@ -24,6 +24,5 @@ ffmpeg-python
 streamlit-mic-recorder
 sounddevice 
 soundfile
-winget install ffmpeg
 
 
